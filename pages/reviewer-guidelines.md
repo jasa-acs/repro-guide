@@ -16,5 +16,5 @@ In general, we ask that the RR assess the completeness and quality of the ACC Fo
 
 ## Criteria for reproducibility review
 
-The [Reproducibility Review Form](review-form) lists the criteria we would like you to consider in your  review (these criteria have also been provided to the authors in the author guidelines (author-guidelines). It is most helpful if you address the criteria by filling out [this review form](../assets/review-form.md) and including the completed form as an attachment with your review. 
+The [Reproducibility Review Form](review-form) lists the criteria we would like you to consider in your  review (these criteria have also been provided to the authors in the author guidelines (author-guidelines). It is most helpful if you address the criteria by filling out [this review form](review-form.md) and including the completed form as an attachment with your review. 
 

@@ -30,3 +30,6 @@ Various journals are now requiring or strongly encouraging authors to provide co
 1. [Guidance from a group of reproducibility (aka 'data') editors of social science journals](https://social-science-data-editors.github.io/guidance).
 2. The American Economic Association requires code and data for all submissions to the AEA journals. Here is [guidance from the AEA data editor](https://aeadataeditor.github.io/aea-de-guidance).
 
+## Help
+
+Please contact the Associate Editors for Reproducibility at [jasa.app.cs.aer@gmail.com](mailto:jasa.app.cs.aer@gmail.com) with any questions about the guidelines for authors or for reviewers, or if you are interested in learning more about our reproducibility initiative.

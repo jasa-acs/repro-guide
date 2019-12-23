@@ -27,6 +27,6 @@ When possible we ask that JASA ACS associate editors ask one of the reviewers to
 
 Various journals are now requiring or strongly encouraging authors to provide code and data to reproduce their work. In addition, many researchers have written guidance on best practices for reproducibility. These are just a few of the many resources you may find online.
 
-1. (Guidance from a group of editors of social science journals)[https://social-science-data-editors.github.io/guidance]
+1. [Guidance from a group of reproducibility (aka 'data') editors of social science journals](https://social-science-data-editors.github.io/guidance).
 2. The American Economic Association requires code and data for all submissions to the AEA journals. Here is [guidance from the AEA data editor](https://aeadataeditor.github.io/aea-de-guidance).
 

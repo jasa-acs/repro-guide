@@ -1,4 +1,4 @@
-# The JASA ACS reproducibility guide
+# The JASA ACS Reproducibility Guide
 
 UNDER CONSTRUCTION
 

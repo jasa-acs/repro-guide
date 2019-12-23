@@ -1,4 +1,4 @@
-# JASA ACS Reproducibility Initiative - Author Guidelines
+# Author Guidelines
 
 This document outlines the journal's expectations for authors with regards to submission of code and data to allow for reproducibility of the work. During the review process, the reviewers and editors will assess the potential for the work to be reproduced based on the code and data provided. However, as with other aspects of a manuscript, it is ultimately the authors’ responsibility to ensure that the code and data are of high quality and that the work is reproducible. As the focal point for reproducibility information, authors are required to include an [Author Contributions Checklist (ACC) Form](acc.html) with their submission. 
 

@@ -1,4 +1,4 @@
-# JASA ACS Reproducibility Initiative - Reviewer Guidelines
+# Reviewer Guidelines
 
 This document outlines the Journal's expectations for reviewers assigned to evaluate the reproducibility of a submitted manuscript based on materials provided by the authors. 
 

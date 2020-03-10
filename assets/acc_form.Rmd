@@ -15,7 +15,7 @@ To check a checkbox, replace [ ] by [x], as follows:
 
 - [x] This is a checked checkbox 
 
-Note that current versions of RStudio for Mac (this will change with RStudio versions 1.3 and higher) will not create a nice checked box, but will leave the original characters, i.e., literally "[ ]" or "[x]". It's fine to submit a PDF in this form.
+Note that current versions of RStudio for Mac (this will change with RStudio versions 1.3 and higher) will not create a formatted checkbox but will leave the original characters, i.e., literally "[ ]" or "[x]". It's fine to submit a PDF in this form.
  
 2. For text answers, simply type the relevant text in the areas indicated. A blank line starts a new paragraph. 
  

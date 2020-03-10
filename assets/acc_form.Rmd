@@ -15,6 +15,7 @@ To check a checkbox, replace [ ] by [x], as follows:
 
 - [x] This is a checked checkbox 
 
+Note that current versions of RStudio for Mac (this will change with RStudio versions 1.3 and higher) will not create a nice checked box, but will leave the original characters, i.e., literally "[ ]" or "[x]". It's fine to submit a PDF in this form.
  
 2. For text answers, simply type the relevant text in the areas indicated. A blank line starts a new paragraph. 
  
@@ -34,7 +35,7 @@ This form documents the artifacts associated with the article (i.e., the data an
 If box above is checked and if no simulated/synthetic data files are provided by the authors, please skip directly to the Code section. Otherwise, continue.
 -->
 
-- [x] I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
+- [] I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
 
 <!-- If data are simulated using random number generation, please be sure to set the random number seed in the code you provide -->
 
@@ -44,12 +45,10 @@ If box above is checked and if no simulated/synthetic data files are provided by
 Provide a short (< 100 words), high-level description of the data
 -->
 
-The data are given by elves.
-
 ## Availability
 
 - [ ] Data **are** publicly available.
-- [x] Data **cannot be made** publicly available.
+- [ ] Data **cannot be made** publicly available.
 
 If the data are publicly available, see the *Publicly available data* section. Otherwise, see the *Non-publicly available data* section, below.
 
@@ -61,8 +60,6 @@ If the data are publicly available, see the *Publicly available data* section. O
 
 - [ ] Data are publicly available by request, following the process described here:
 
-Well it's hard to really say.
-
 - [ ] Data are or will be made available through some other mechanism, described here:
 
 
@@ -72,12 +69,8 @@ Well it's hard to really say.
 
 <!--
 The Journal of the American Statistical Association requires authors to make data accompanying their papers available to the scientific community except in cases where: 1) public sharing of data would be impossible, 2) suitable synthetic data are provided which allow the main analyses to be replicated (recognizing that results may differ from the "real" data analyses), and 3) the scientific value of the results and methods outweigh the lack of reproducibility.
--->
 
-Discussion of lack of publicly available data:
-
-<!--
-For example
+Please discuss the lack of publicly available data. For example:
 -	why data sharing is not possible,
 -	what synthetic data are provided, and 
 -	why the value of the paper's scientific contribution outweighs the lack of reproducibility.
@@ -91,7 +84,7 @@ For example
 Check all that apply
 -->
 - [ ] CSV or other plain text.
-- [x] Software-specific binary format (.Rda, Python pickle, etc.): pkcle
+- [ ] Software-specific binary format (.Rda, Python pickle, etc.): pkcle
 - [ ] Standardized binary format (e.g., netCDF, HDF5, etc.): 
 - [ ] Other (please specify):
 
@@ -101,7 +94,7 @@ Check all that apply
 A data dictionary provides information that allows users to understand the meaning, format, and use of the data.
 -->
 
-- [x] Provided by authors in the following file(s):
+- [ ] Provided by authors in the following file(s):
 - [ ] Data file(s) is(are) self-describing (e.g., netCDF files)
 - [ ] Available at the following URL: 
 
@@ -168,7 +161,7 @@ OPTIONAL: System/hardware requirements including operating system with version n
 - [ ] No parallel code used
 - [ ] Multi-core parallelization on a single machine/node
     - Number of cores used: 
-- [x] Multi-machine/multi-node parallelization 
+- [ ] Multi-machine/multi-node parallelization 
     - Number of nodes and cores used: 3 nodes, 243 cores
 
 ### License

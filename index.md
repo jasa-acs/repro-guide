@@ -1,7 +1,5 @@
 # The JASA ACS Reproducibility Guide
 
-UNDER CONSTRUCTION
-
 As of September 2016, all submissions to JASA Applications and Case Studies must include code, data, and the workflow to reproduce the work presented.
 
 These web pages provide guidance on reproducibility for authors and reviewers in JASA ACS. 

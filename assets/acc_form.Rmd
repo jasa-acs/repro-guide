@@ -1,6 +1,6 @@
 ---
 title: "Author Contributions Checklist Form"
-date: "Revision: 2020-03-05"
+date: "Revision: 2020-05-01"
 output:
   pdf_document: default
 ---
@@ -46,6 +46,7 @@ Provide a short (< 100 words), high-level description of the data
 -->
 
 ## Availability
+
 
 - [ ] Data **are** publicly available.
 - [ ] Data **cannot be made** publicly available.

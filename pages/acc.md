@@ -2,10 +2,10 @@
 
 Authors must fill out the Author Contributions Checklist (ACC) form. The purpose of the ACC form is to document the artifacts associated with a manuscript (i.e., the data and code supporting the computational findings) and describe how to reproduce the findings. The final version of this document is included as online supplemental material with the published paper and on the [JASA Github site](http://github.com/JASA-ACS/) and is referenced in the abstract.
 
-As of April 2020, authors have two options for how to fill out the form. Please choose ONE of the following two options.
+As of May 2020, authors have two options for how to fill out the form. Please choose ONE of the following two options.
 
   1. You can edit [our R Markdown (Rmd) template](../assets/acc_form.Rmd). 
-  2. You can fill out [this Microsoft Word-based form](../assets/acc_form.docx). [This document is still being finalized.]
+  2. You can fill out [this Microsoft Word-based form](../assets/acc_form.docx). 
 
 In either case, please generate a PDF from the form and provide as supplementary material when submitting your manuscript for review.
 

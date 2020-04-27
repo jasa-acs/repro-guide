@@ -19,7 +19,7 @@ These web pages provide guidance on reproducibility for authors and reviewers in
 When possible we ask that JASA ACS associate editors ask one of the reviewers to review a given manuscript for reproducibility. When this is not feasible one of the JASA ACS associate editors for reproducibility (AER) can carry out this review (by selecting the generic 'reviewer for reproducibility' in the review system. In all cases an AER reviews a manuscript before it is accepted for publication. 
 
 1. Please see our [guidelines for reviewers](pages/reviewer-guidelines) when reviewing a manuscript for reproducibility.
-2. We ask that reproducibility reviewers consider [these review criteria](pages/review-form) and ideally explicitly fill out the review form and include the completed form as an attachment with your review.
+2. We ask that reproducibility reviewers consider [these review criteria](pages/review-form) and ideally explicitly fill out a review form (simply create a document with the headers as given in that link) and include the completed form as an attachment with your review.
 
 ## General resources on reproducibility
 

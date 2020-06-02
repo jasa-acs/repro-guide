@@ -7,7 +7,7 @@ As of May 2020, authors have two options for how to fill out the form. Please ch
   1. You can edit [our R Markdown (Rmd) template](../assets/acc_form.Rmd). 
   2. You can fill out [this Microsoft Word-based form](../assets/acc_form.docx). 
 
-In either case, please generate a PDF from the form and provide as supplementary material when submitting your manuscript for review.
+In either case, please generate a PDF from the form and provide as supplementary material when submitting your manuscript for review. If you use the R Markdown format, please also include the R Markdown version as supplementary material. 
 
 To generate a PDF from the R Markdown document, you can click on "Knit to PDF" in RStudio or run `rmarkdown::render('acc_form.Rmd')` from within R.
 

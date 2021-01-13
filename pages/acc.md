@@ -1,13 +1,13 @@
 # Author Contributions Checklist Form
 
-Authors must fill out the Author Contributions Checklist (ACC) form. The purpose of the ACC form is to document the artifacts associated with a manuscript (i.e., the data and code supporting the computational findings) and describe how to reproduce the findings. The final version of this document is included as online supplemental material with the published paper and on the [JASA Github site](http://github.com/JASA-ACS/) and is referenced in the abstract.
+Authors must fill out the Author Contributions Checklist (ACC) form. The purpose of the ACC form is to document the artifacts associated with a manuscript (i.e., the data and code supporting the computational findings) and describe how to reproduce the findings. The final version of this document is included as online supplemental material with the published paper and on the [JASA GitHub site](http://github.com/JASA-ACS/) and is referenced in the abstract.
 
 As of May 2020, authors have two options for how to fill out the form. Please choose ONE of the following two options.
 
   1. You can edit [our R Markdown (Rmd) template](../assets/acc_form.Rmd). 
   2. You can fill out [this Microsoft Word-based form](../assets/acc_form.docx). 
 
-In either case, please generate a PDF from the form and provide as supplementary material when submitting your manuscript for review. If you use the R Markdown format, please also include the R Markdown version as supplementary material. 
+In either case, **please generate a PDF from the form and provide as supplementary material when submitting your manuscript for review**. Please also include the R Markdown or Microsoft Word version as well (this helps us when posting materials to the JASA GitHub site as the ACC form becomes the README file in the repository for the published paper).
 
 To generate a PDF from the R Markdown document, you can click on "Knit to PDF" in RStudio or run `rmarkdown::render('acc_form.Rmd')` from within R.
 

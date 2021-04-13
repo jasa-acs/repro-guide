@@ -2,7 +2,7 @@
 
 For manuscripts initially submitted as of July 1, 2021, all submitted *revisions* must include code and data to reproduce the work presented, as well as our Author Contributions Checklist (ACC) form documenting the materials. We encourage, but do not require, authors to provide materials upon initial submission.
 
-These web pages provide guidance on reproducibility for authors and reviewers in JASA. 
+These web pages provide JASA's official guidance on reproducibility for authors and reviewers. 
 
 ## Guidance for authors
 
@@ -16,7 +16,7 @@ These web pages provide guidance on reproducibility for authors and reviewers in
 
 ## Guidance for reviewers
 
-An Associate Editor (AE) will assign each revised manuscript sent out to review, at least one "Reproducibility Reviewer" (RR). In many cases, the AE may simply request that one of the Associate Editors for Reproducibility serve as the Reproducibility Reviewer, by assigning the "generic" Reproducibility Reviewer. 
+An Associate Editor (AE) will assign each revised manuscript sent out to review, at least one "Reproducibility Reviewer" (RR). In most cases, the Reproducibility Reviewer will be one of the Associate Editors for Reproducibility (who the AE may request simply by assigning the "generic" Reproducibility Reviewer. 
 
 1. Please see our [guidelines for reviewers](pages/reviewer-guidelines) when reviewing a manuscript for reproducibility.
 2. We ask that reproducibility reviewers consider [these review criteria](pages/review-form) and ideally explicitly fill out a review form (simply create a document with the headers as given in that link) and include the completed form as an attachment with your review.
@@ -27,6 +27,7 @@ Various journals are now requiring or strongly encouraging authors to provide co
 
 1. [Guidance from a group of reproducibility (aka 'data') editors of social science journals](https://social-science-data-editors.github.io/guidance).
 2. The American Economic Association requires code and data for all submissions to the AEA journals. Here is [guidance from the AEA data editor](https://aeadataeditor.github.io/aea-de-guidance).
+3. PLOS Computational Biology requires code be publicly shared. Here is [the PLOS Computational Biology requirements and guidance](https://journals.plos.org/ploscompbiol/s/code-availability).
 
 ## Help
 

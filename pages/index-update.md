@@ -31,4 +31,4 @@ Various journals are now requiring or strongly encouraging authors to provide co
 
 ## Help
 
-Please contact the Associate Editors for Reproducibility at [jasa.app.cs.aer@gmail.com](mailto:jasa.app.cs.aer@gmail.com) with any questions about the guidelines for authors or for reviewers, or if you are interested in learning more about our reproducibility initiative.
+Please contact the Associate Editors for Reproducibility at [jasa.app.cs.aer@gmail.com](mailto:jasa.app.cs.aer@gmail.com) with any questions when filling out the ACC form, or questions about the guidelines for authors or for reviewers, or if you are interested in learning more about our reproducibility initiative.

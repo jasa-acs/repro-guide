@@ -6,9 +6,9 @@ These web pages provide JASA's official guidance on reproducibility for authors 
 
 ## Guidance for authors
 
-1. In preparing your materials, please see our [guidelines for authors](pages/author-guidelines), which is also provided in [JASA's instructions for authors](https://amstat.tandfonline.com/action/authorSubmission?show=instructions&journalCode=uasa20).
-2. Authors must fill out the [ACC form](pages/acc.html), documenting the reproducibility of their work. 
-3. Feel free to look at previously published articles for example reproducible materials. Reproducibility materials for previously published articles are available at [https://github.com/jasa-acs](https://github.com/jasa-acs). We particularly recommend the reproducibility materials in the following articles:
+1. Authors must fill out the [ACC form](pages/acc.html), documenting the reproducibility of their work. The form includes specific information about what reproducibility materials and instructions authors are expected to provide.
+2. Authors who would like more detail than is provided in the ACC form or would like to see the guidance in document form can also see our [guidelines for authors](pages/author-guidelines).
+3. Feel free to look at previously published articles for examples of reproducibility materials. Reproducibility materials for previously published articles are available at [https://github.com/jasa-acs](https://github.com/jasa-acs). We particularly recommend the reproducibility materials in the following articles:
    - [example 1](https://github.com/jasa-acs/Value-of-Information-Sensitivity-Analysis-and-Research-Design-in-Bayesian-Evidence-Synthesis)
    - [example 2](https://github.com/jasa-acs/Modeling-Bronchiolitis-Incidence-Proportions-in-the-Presence-of-Spatio-Temporal-Uncertainty)
    - [example 3](https://github.com/jasa-acs/Penalized-and-Constrained-Optimization-An-Application-to-High-Dimensional-Website-Advertising)
@@ -27,7 +27,7 @@ Various journals are now requiring or strongly encouraging authors to provide co
 
 1. [Guidance from a group of reproducibility (aka 'data') editors of social science journals](https://social-science-data-editors.github.io/guidance).
 2. The American Economic Association requires code and data for all submissions to the AEA journals. Here is [guidance from the AEA data editor](https://aeadataeditor.github.io/aea-de-guidance).
-3. PLOS Computational Biology requires code be publicly shared. Here is [the PLOS Computational Biology requirements and guidance](https://journals.plos.org/ploscompbiol/s/code-availability).
+3. PLOS Computational Biology requires code be publicly shared. Here are [the PLOS Computational Biology requirements and guidance](https://journals.plos.org/ploscompbiol/s/code-availability).
 
 ## Help
 

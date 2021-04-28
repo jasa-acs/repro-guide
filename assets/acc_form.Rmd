@@ -163,7 +163,7 @@ OPTIONAL: System/hardware requirements including operating system with version n
 - [ ] Multi-core parallelization on a single machine/node
     - Number of cores used: 
 - [ ] Multi-machine/multi-node parallelization 
-    - Number of nodes and cores used: 3 nodes, 243 cores
+    - Number of nodes and cores used: 
 
 ### License
 

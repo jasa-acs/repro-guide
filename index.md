@@ -2,13 +2,13 @@
 
 As of September 2016, all submissions to JASA Applications and Case Studies must include code, data, and the workflow to reproduce the work presented.
 
-As of September 2021, all invited revisions to JASA (both Applications & Case Studies and Theory & Methods) must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
+As of September 2021, all **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
 
 These web pages provide guidance on reproducibility for authors and reviewers in JASA. 
 
 ## Guidance for authors
 
-1. In preparing your materials, please see our [guidelines for authors](pages/author-guidelines), which is also provided in [JASA's instructions for authors](https://amstat.tandfonline.com/action/authorSubmission?show=instructions&journalCode=uasa20).
+1. In preparing your materials, please see our [guidelines for authors](pages/author-guidelines).
 2. Authors must fill out the [ACC form](pages/acc.html), documenting the reproducibility of their work. 
 3. Feel free to look at previously published articles for example reproducible materials. All reproducibility materials for published articles (those submitted as of September 2016) are available at [https://github.com/jasa-acs](https://github.com/jasa-acs). We particularly recommend the reproducibility materials in the following articles:
    - [example 1](https://github.com/jasa-acs/Value-of-Information-Sensitivity-Analysis-and-Research-Design-in-Bayesian-Evidence-Synthesis)

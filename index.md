@@ -2,7 +2,7 @@
 
 As of September 2016, all submissions to JASA Applications and Case Studies must include code, data, and the workflow to reproduce the work presented.
 
-As of September 2021, all **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
+As of September 2021, all **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) for manuscripts whose initial submission was on or after September 1, 2021, must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
 
 These web pages provide guidance on reproducibility for authors and reviewers in JASA. 
 

@@ -1,8 +1,8 @@
 # The JASA Reproducibility Guide
 
-As of September 2016, all submissions to JASA Applications and Case Studies must include code, data, and the workflow to reproduce the work presented.
-
 As of September 2021, all **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) for manuscripts whose initial submission was on or after September 1, 2021, must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
+
+Submissions before September 2021 to JASA Applications & Case Studies (but not Theory & Methods) should have included these materials upon initial submission, but submission upon invited revision is acceptable.
 
 These web pages provide guidance on reproducibility for authors and reviewers in JASA. 
 
@@ -10,7 +10,7 @@ These web pages provide guidance on reproducibility for authors and reviewers in
 
 1. In preparing your materials, please see our [guidelines for authors](pages/author-guidelines).
 2. Authors must fill out the [ACC form](pages/acc.html), documenting the reproducibility of their work. 
-3. Feel free to look at previously published articles for example reproducible materials. All reproducibility materials for published articles (those submitted as of September 2016) are available at [https://github.com/jasa-acs](https://github.com/jasa-acs). We particularly recommend the reproducibility materials in the following articles:
+3. Feel free to look at previously published articles for example reproducible materials. All reproducibility materials for published articles in Applications & Case Studies (those submitted as of September 2016) are available at [https://github.com/jasa-acs](https://github.com/jasa-acs). We particularly recommend the reproducibility materials in the following articles:
    - [example 1](https://github.com/jasa-acs/Value-of-Information-Sensitivity-Analysis-and-Research-Design-in-Bayesian-Evidence-Synthesis)
    - [example 2](https://github.com/jasa-acs/Modeling-Bronchiolitis-Incidence-Proportions-in-the-Presence-of-Spatio-Temporal-Uncertainty)
    - [example 3](https://github.com/jasa-acs/Penalized-and-Constrained-Optimization-An-Application-to-High-Dimensional-Website-Advertising)

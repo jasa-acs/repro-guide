@@ -1,6 +1,6 @@
 ---
 title: "Author Contributions Checklist Form"
-date: "Revision: 2020-05-01"
+date: "Revision: 2021-09-10"
 output:
   pdf_document: default
 ---
@@ -15,7 +15,7 @@ To check a checkbox, replace [ ] by [x], as follows:
 
 - [x] This is a checked checkbox 
 
-Note that current versions of RStudio for Mac (this will change with RStudio versions 1.3 and higher) will not create a formatted checkbox but will leave the original characters, i.e., literally "[ ]" or "[x]". It's fine to submit a PDF in this form.
+Note that older versions of RStudio (versions lower than 1.3) may not create a formatted checkbox but will leave the original characters, i.e., literally "[ ]" or "[x]". It's fine to submit a PDF in this form.
  
 2. For text answers, simply type the relevant text in the areas indicated. A blank line starts a new paragraph. 
  
@@ -35,7 +35,7 @@ This form documents the artifacts associated with the article (i.e., the data an
 If box above is checked and if no simulated/synthetic data files are provided by the authors, please skip directly to the Code section. Otherwise, continue.
 -->
 
-- [] I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
+- [ ] I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
 
 <!-- If data are simulated using random number generation, please be sure to set the random number seed in the code you provide -->
 
@@ -110,7 +110,7 @@ OPTIONAL: Provide any additional details that would be helpful in understanding 
 ## Abstract
 
 <!--
-Provide a short (< 100 words), high-level description of the code. If necessary, more details can be provided in files that accompany the code.
+Provide a short (< 100 words), high-level description of the code. If necessary, more details can be provided in files that accompany the code. If no code is provided, please state this and say why (e.g., if the paper contains no computational work).
 -->
 
 ## Description
@@ -190,6 +190,7 @@ The materials provided should provide a straightforward way for reviewers and re
 The provided workflow reproduces:
 
 - [ ] Any numbers provided in text in the paper
+- [ ] The computational method(s) presented in the paper (i.e., code is provided that implements the method(s))
 - [ ] All tables and figures in the paper
 - [ ] Selected tables and figures in the paper, as explained and justified below:
 
@@ -210,7 +211,7 @@ Check all that apply
 ### Instructions
 
 <!--
-Describe how to use the materials provided to reproduce analyses in the manuscript. Additional details can be provided in file(s) accompanying the reproducibility materials.
+Describe how to use the materials provided to reproduce analyses in the manuscript. Additional details can be provided in file(s) accompanying the reproducibility materials. If no workflow is provided, please state this and say why (e.g., if the paper contains no computational work).
 -->
 
 ### Expected run-time

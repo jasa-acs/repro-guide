@@ -2,18 +2,18 @@
 
 Authors must fill out the Author Contributions Checklist (ACC) form. The purpose of the ACC form is to document the artifacts associated with a manuscript (i.e., the data and code supporting the computational findings) and describe how to reproduce the findings. The final version of this document is included as online supplemental material with the published paper and on the [JASA GitHub site](http://github.com/JASA-ACS/) and is referenced in the abstract.
 
-As of May 2020, authors have two options for how to fill out the form. Please choose ONE of the following two options.
+Authors have two options for how to fill out the form. Please choose ONE of the following two options.
 
   1. You can edit [our R Markdown (Rmd) template](../assets/acc_form.Rmd). 
   2. You can fill out [this Microsoft Word-based form](../assets/acc_form.docx). 
 
 In either case, **please generate a PDF from the form and provide as supplementary material when submitting your manuscript for review**. Please also include the R Markdown or Microsoft Word version as well (this helps us when posting materials to the JASA GitHub site as the ACC form becomes the README file in the repository for the published paper).
 
-To generate a PDF from the R Markdown document, you can click on "Knit to PDF" in RStudio or run `rmarkdown::render('acc_form.Rmd')` from within R.
+To generate a PDF from the R Markdown document, you can click on "Knit to PDF" in RStudio or run `rmarkdown::render('acc_form.Rmd')` from within R. Alternatively, since the R Markdown document contains no code chunks, it can be treated simply as a Markdown document and you can use tools such as `pandoc` to convert the filled form to PDF.
 
 To generate a PDF from the Microsoft Word-based form:
 
-  - Unprotect the form by unclicking "Developer -> Protect -> Protect Form".
+  - Unprotect the form by unclicking "Developer -> Protect Form".
   - Remove comments by selecting "Review -> Delete -> Delete All Comments in Document".
   - Finally use "File -> Save As -> File Format -> PDF".
 

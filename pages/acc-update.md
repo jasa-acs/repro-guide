@@ -1,3 +1,12 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+
 # Author Contributions Checklist Form
 
 Authors must fill out the Author Contributions Checklist (ACC) form when submitting a revision to JASA. The purpose of the ACC form is to document the artifacts associated with a manuscript (i.e., the data and code supporting the computational findings) and describe how to reproduce the findings. The final version of this document is included as online supplemental material with the published paper and on the [JASA GitHub site](http://github.com/JASA-ACS/) and is referenced in the abstract.

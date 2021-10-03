@@ -1,3 +1,12 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+
 # Reviewer Guidelines
 
 This document outlines the Journal's expectations for reviewers assigned to evaluate the reproducibility of a submitted manuscript based on materials provided by the authors. 

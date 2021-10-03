@@ -1,3 +1,12 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+
 # The JASA Reproducibility Guide
 
 For manuscripts initially submitted as of July 1, 2021, all submitted *revisions* must include code and data to reproduce the work presented, as well as our Author Contributions Checklist (ACC) form documenting the materials. We encourage, but do not require, authors to provide materials upon initial submission.

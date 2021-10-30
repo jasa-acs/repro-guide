@@ -205,11 +205,11 @@ The workflow is available:
 Check all that apply, and in the case of a Git repository include unique identifier, such as specific commit ID, branch, release, or tag.
 -->
 - [ ] As part of the paper’s supplementary material.
-- [ ] In the following Git repository:
+- [ ] In this Git repository:
 - [ ] Other (please specify):
 
 <!--
-Indicate where the materials (generally including the code, unless in a separate location and indicated in the previous section) are available. We strongly encourage authors to place their materials (but not large datasets) in a Git repository hosted on a site such as GitHub, GitLab, or BitBucket. If the repository is private during the review process, please indicate the location where it will be available publicly once published and also include the materials as a zip file (e.g., obtained directly from the Git hosting site) as supplementary materials.
+Indicate where the materials (generally including the code, unless in a separate location and indicated in the previous section) are available. We strongly encourage authors to place their materials (but not large datasets) in a Git repository hosted on a site such as GitHub, GitLab, or BitBucket. If the repository is private during the review process, please indicate the location where it will be available publicly upon publication, and also include the materials as a zip file (e.g., obtained directly from the Git hosting site) as supplementary materials.
 -->
 
 

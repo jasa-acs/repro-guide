@@ -19,7 +19,7 @@ These web pages provide guidance on reproducibility for authors and reviewers in
 
 1. In preparing your materials, please see our [guidelines for authors](pages/author-guidelines).
 2. Authors must fill out the [ACC form](pages/acc.html), documenting the reproducibility of their work. 
-3. We strongly encourage the use of a Git repository for code and workflow materials (but not large datasets) hosted on a site such as GitHub, GitLab, or BitBucket. If desired, authors might choose to keep the repository private until the time of publication.
+3. We strongly encourage the use of a Git repository for code and workflow materials (but not large datasets) hosted on a site such as GitHub, GitLab, or BitBucket. If desired, authors might choose to keep the repository private until the time of publication. We provide an optional [template repository](https://github.com/jasa-acs/repro-template) as an example on which you can base your repository. If using a repository, we strongly recommend that the main `README.md` of the repository provide an overview of how to carry out the analyses presented in their manuscript.
 4. Feel free to look at previously published articles for example reproducible materials. All reproducibility materials for published articles in Applications & Case Studies (those submitted as of September 2016) are available at [https://github.com/jasa-acs](https://github.com/jasa-acs). We particularly recommend the reproducibility materials in the following articles:
    - [example 1](https://github.com/jasa-acs/Value-of-Information-Sensitivity-Analysis-and-Research-Design-in-Bayesian-Evidence-Synthesis)
    - [example 2](https://github.com/jasa-acs/Modeling-Bronchiolitis-Incidence-Proportions-in-the-Presence-of-Spatio-Temporal-Uncertainty)

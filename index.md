@@ -26,6 +26,10 @@ These web pages provide guidance on reproducibility for authors and reviewers in
    - [example 3](https://github.com/jasa-acs/Penalized-and-Constrained-Optimization-An-Application-to-High-Dimensional-Website-Advertising)
    - [example 4](https://github.com/jasa-acs/Quantile-Function-on-Scalar-Regression-Analysis-for-Distributional-Data)
 
+## JASA Reproducibility Award
+
+The [JASA reproducibility award](https://jasa-acs.github.io/repro-award) recognizes outstanding computational reproducibility efforts in the statistical field. It was established in 2023, with the inaugural winners recognized at the 2023 Joint Statistical Meetings (JSM). All manuscripts accepted into JASA in a calendar year are eligible for the award, which will be awarded at the JSM the following year.
+
 ## Guidance for reproducibility reviewers
 
 While an associate editor may ask one of the reviewers to review a given manuscript for reproducibility, in most cases one of the JASA associate editors for reproducibility (AER) is asked to carry out this review (by selecting the generic 'reviewer for reproducibility' in the review system. 

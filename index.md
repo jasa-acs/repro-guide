@@ -9,9 +9,7 @@
 
 # The JASA Reproducibility Guide
 
-As of September 2021, all **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) for manuscripts whose initial submission was on or after September 1, 2021, must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
-
-Submissions before September 2021 to JASA Applications & Case Studies (but not Theory & Methods) should have included these materials upon initial submission, but submission upon invited revision is acceptable.
+As of September 2021, all **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
 
 These web pages provide guidance on reproducibility for authors and reviewers in JASA. 
 
@@ -33,7 +31,7 @@ The [JASA reproducibility award](https://jasa-acs.github.io/repro-award) recogni
 
 ## Guidance for reproducibility reviewers
 
-While an associate editor may ask one of the reviewers to review a given manuscript for reproducibility, in most cases one of the JASA associate editors for reproducibility (AER) is asked to carry out this review (by selecting the generic 'reviewer for reproducibility' in the review system. 
+While an associate editor may ask one of the reviewers to review a given manuscript for reproducibility, in most cases one of the JASA associate editors for reproducibility (AER) is asked to carry out this review (by selecting the generic 'reviewer for reproducibility' in the review system). 
 
 1. Please see our [guidelines for reviewers](pages/reviewer-guidelines) when reviewing a manuscript for reproducibility.
 2. We ask that reproducibility reviewers consider [these review criteria](pages/review-form) and ideally explicitly fill out a review form (simply create a document with the headers as given in that link) and include the completed form as an attachment with your review.

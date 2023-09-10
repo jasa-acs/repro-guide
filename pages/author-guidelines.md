@@ -23,6 +23,7 @@ The criteria for reproducibility that will be assessed during the reviewing proc
  - We encourage authors who use public datasets to cite those datasets, including any DOI for the data.
  - The code should run and reproduce the key results in the paper (data preparation/cleaning, analyses, figures and tables). While determination of which results should be reproducible is based on the authors’ judgment at submission, whether the key results are reproducible will be an important consideration during the review process.
  - The code should be in a form that can be used and understood by others, including being readable at a line-by-line level in terms of syntax and comments. 
+ - Authors should cite software packages in the references section in similar fashion to paper citations, citing all software packages that were important to the research outcome, including the version number for such software used to produce submitted results. 
  - There should be a clear, documented workflow to reproduce the key results. For workflows involving more than a single script, there should be a master script, Makefile or other mechanism available such that it is clear what each component does, in what order to run the components, and what are the inputs to and outputs from the different components.
  - Once a manuscript is conditionally accepted, the code and data (unless an exception is granted for the latter) must be made available as detailed in the ACC form. Manuscripts will not be accepted and should not be claimed as such by the authors until this occurs.
 

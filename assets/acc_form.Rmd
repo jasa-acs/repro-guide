@@ -1,6 +1,6 @@
 ---
 title: "Author Contributions Checklist Form"
-date: "Revision: 2021-10-30"
+date: "Revision: 2023-09-10"
 geometry: margin=1in
 output:
   pdf_document: default
@@ -139,6 +139,10 @@ Check all that apply
 - [ ] Other (please specify): 
 
 ### Supporting software requirements
+
+<!--
+Please cite all software packages in the references section in similar fashion to paper citations, citing packages that were important to the research outcome, including the version number for such software used to produce submitted results. 
+-->
 
 #### Version of primary software used
 

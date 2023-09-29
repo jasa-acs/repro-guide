@@ -9,7 +9,9 @@
 
 # The JASA Reproducibility Guide
 
-As of September 2021, all **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow.
+All **invited revisions** to JASA (both Applications & Case Studies and Theory & Methods) must include code, data, and the workflow to reproduce the work presented. We encourage but do not require that initial submissions include the code, data, and workflow. Authors of paper that receive a decision of "reject and resubmit" may be asked to submit reproducibility materials with the resubmission.
+
+Reproducibility materials have been required for Applications and Case Studies submissions since 2016 and for Theory and Methods submissions since 2021.
 
 These web pages provide guidance on reproducibility for authors and reviewers in JASA. 
 

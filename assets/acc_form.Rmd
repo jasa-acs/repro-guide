@@ -141,7 +141,7 @@ Check all that apply
 ### Supporting software requirements
 
 <!--
-Please cite all software packages in the references section in similar fashion to paper citations, citing packages that were important to the research outcome, including the version number for such software used to produce submitted results. 
+Please cite all software packages in the References Section in similar fashion to paper citations, citing packages that are foundational to the research outcome (including packages that implement methods to which you compare your methods). You may elect to not cite packages used for supporting purposes. For R packages, note that running `citation('name_of_package')` often shows how the package authors wish to be cited. 
 -->
 
 #### Version of primary software used

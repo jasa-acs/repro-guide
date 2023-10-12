@@ -20,7 +20,7 @@ In either case, **please generate a PDF from the form and provide as supplementa
 
 To generate a PDF from the R Markdown document, you can click on "Knit to PDF" in RStudio or run `rmarkdown::render('acc_form.Rmd')` from within R. Alternatively, since the R Markdown document contains no code chunks, it can be treated simply as a Markdown document and you can use tools such as `pandoc` to convert the filled form to PDF.
 
-To generate a PDF from the Microsoft Word-based form:
+To generate a PDF from the Microsoft Word-based form, follow these steps after having filled out the form:
 
   - Unprotect the form by unclicking "Developer -> Protect Form".
   - Remove comments by selecting "Review -> Delete -> Delete All Comments in Document".

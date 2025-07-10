@@ -13,11 +13,11 @@ This document outlines the Journal's expectations for reviewers assigned to eval
 
 ## Reproducibility Reviewer (RR)
 
-An Associate Editor (AE) will assign each manuscript sent out to review, at least one "Reproducibility Reviewer" (RR). The RR for a manuscript may be a reviewer who has also been asked to evaluate the scientific/statistical content of the manuscript. The AE may also request that one of the Associate Editors for Reproducibility serve as the Reproducibility Reviewer, by assigning the "generic" Reproducibility Reviewer. 
+An Associate Editor (AE) will assign each revised manuscript sent out to review, at least one "Reproducibility Reviewer" (RR). The RR for a manuscript may be a reviewer who has also been asked to evaluate the scientific/statistical content of the manuscript. In most cases, the AE will simply request that one of the Associate Editors for Reproducibility serve as the Reproducibility Reviewer, by assigning the "generic" Reproducibility Reviewer. 
 
 ## Author Contributions Checklist Form
 
-Each paper submitted to JASA ACS is required to have an [Author Contributions Checklist Form](acc.md) describing the code and data supporting the paper and providing instructions for how to reproduce the key results (tables, figures, etc.) in the manuscript. 
+Each revision submitted to JASA is required to have an [Author Contributions Checklist Form](acc.md) describing the code and data supporting the paper and providing instructions for how to reproduce the key results (tables, figures, etc.) in the manuscript. 
 
 ## Role of the Reproducibility Reviewer (RR)
 

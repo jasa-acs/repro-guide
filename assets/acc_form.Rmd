@@ -1,6 +1,6 @@
 ---
 title: "Author Contributions Checklist Form"
-date: "Revision: 2023-10-11"
+date: "Revision: 2026-05-11"
 geometry: margin=1in
 output:
   pdf_document: default
@@ -16,13 +16,12 @@ To check a checkbox, replace [ ] by [x], as follows:
 
 - [x] This is a checked checkbox 
 
-Note that older versions of RStudio (versions lower than 1.3) may not create a formatted checkbox but will leave the original characters, i.e., literally "[ ]" or "[x]". It's fine to submit a PDF in this form.
  
 2. For text answers, simply type the relevant text in the areas indicated. A blank line starts a new paragraph. 
  
 3. Comments (like these instructions) provide additional instructions throughout the form. There is no need to remove them; they will not appear in the compiled document. 
 
-4. If you are comfortable with Markdown syntax, you may choose to include any Markdown-compliant formatting in the form. For example, you may wish to include R code chunks and compile this document in R Markdown.
+4. If you are comfortable with Markdown syntax, you may choose to include any Markdown-compliant formatting in the form. For example, you may wish to include R or Python code chunks and compile this document in Quarto or R Markdown.
 -->
 
 This form documents the artifacts associated with the article (i.e., the data and code supporting the computational findings) and describes how to reproduce the findings.
@@ -38,12 +37,10 @@ If box above is checked and if no simulated/synthetic data files are provided by
 
 - [ ] I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
 
-<!-- If data are simulated using random number generation, please be sure to set the random number seed in the code you provide -->
-
 ## Abstract
 
 <!--
-Provide a short (< 100 words), high-level description of the data
+Provide a short (< 100 words), high-level description of the data. Additional details can be provided in README file(s) accompanying the materials.
 -->
 
 ## Availability
@@ -58,23 +55,24 @@ If the data are publicly available, see the *Publicly available data* section. O
 
 - [ ] Data are available online at:
 
-- [ ] Data are available as part of the paper’s supplementary material.
+- [ ] Data are available as part of the paper's supplementary material.
 
 - [ ] Data are publicly available by request, following the process described here:
 
-- [ ] Data are or will be made available through some other mechanism, described here:
+- [ ] Data are available through some other mechanism, described here:
 
 
-<!-- If data are available by request to the authors or some other data owner, please make sure to explain the process of requesting access to the data. -->
+<!-- If data are available by request to the authors or some other data owner, please make sure to explain the process of requesting access to the data and the details of how to access the specific data files needed. Details are generally best provided in README file(s) accompanying the materials.
+-->
 
 ### Non-publicly available data
 
 <!--
-The Journal of the American Statistical Association requires authors to make data accompanying their papers available to the scientific community except in cases where: 1) public sharing of data would be impossible, 2) suitable synthetic data are provided which allow the main analyses to be replicated (recognizing that results may differ from the "real" data analyses), and 3) the scientific value of the results and methods outweigh the lack of reproducibility.
+The Journal of the American Statistical Association requires authors to make data accompanying their papers available to the scientific community except in cases where: 1) public sharing of data would be impossible, 2) a synthetic/facsimile dataset in the same format as the real data is provided (recognizing that results may differ substantially from the real data analyses), and 3) the scientific value of the results and methods outweigh the lack of reproducibility.
 
 Please discuss the lack of publicly available data. For example:
 -	why data sharing is not possible,
--	what synthetic data are provided, and 
+-	what synthetic/facsimile data are provided, and 
 -	why the value of the paper's scientific contribution outweighs the lack of reproducibility.
 -->
 
@@ -86,7 +84,7 @@ Please discuss the lack of publicly available data. For example:
 Check all that apply
 -->
 - [ ] CSV or other plain text.
-- [ ] Software-specific binary format (.Rda, Python pickle, etc.): pkcle
+- [ ] Software-specific binary format (.Rda, Python pickle, etc.): 
 - [ ] Standardized binary format (e.g., netCDF, HDF5, etc.): 
 - [ ] Other (please specify):
 
@@ -97,7 +95,7 @@ A data dictionary provides information that allows users to understand the meani
 -->
 
 - [ ] Provided by authors in the following file(s):
-- [ ] Data file(s) is(are) self-describing (e.g., netCDF files)
+- [ ] Data file(s) is (are) self-describing (e.g., netCDF, HDF5, Zarr files)
 - [ ] Available at the following URL: 
 
 ### Additional Information (optional)
@@ -111,7 +109,7 @@ OPTIONAL: Provide any additional details that would be helpful in understanding 
 ## Abstract
 
 <!--
-Provide a short (< 100 words), high-level description of the code. If necessary, more details can be provided in files that accompany the code. If no code is provided, please state this and say why (e.g., if the paper contains no computational work).
+Provide a short (< 100 words), high-level description of the code. Additional details can be provided in README file(s) accompanying the materials. If no code is provided, please state this and say why (e.g., if the paper contains no computational work).
 -->
 
 ## Description
@@ -124,15 +122,17 @@ Check all that apply
 - [ ] Script files
     - [ ] R
     - [ ] Python
-    - [ ] Matlab
+    - [ ] Julia
+    - [ ] MATLAB
     - [ ] Other: 
 - [ ] Package
     - [ ] R
     - [ ] Python
+    - [ ] Julia
     - [ ] MATLAB toolbox
     - [ ] Other: 
 - [ ] Reproducible report 
-    - [ ] R Markdown
+    - [ ] Quarto or R Markdown 
     - [ ] Jupyter notebook
     - [ ] Other:
 - [ ] Shell script
@@ -141,19 +141,23 @@ Check all that apply
 ### Supporting software requirements
 
 <!--
-Please cite all software packages in the References Section in similar fashion to paper citations, citing packages that are foundational to the research outcome (including packages that implement methods to which you compare your methods). You may elect to not cite packages used for supporting purposes. For R packages, note that running `citation('name_of_package')` often shows how the package authors wish to be cited. 
+Please cite all software packages in the References Section in similar fashion to paper citations, citing packages that are foundational to the research outcome (including packages that implement methods to which you compare your methods). You may elect to not cite packages used for supporting purposes. For R packages, note that running `citation('name_of_package')` often shows how the package authors wish to be cited.
 -->
 
-#### Version of primary software used
+#### Primary software used
 
 <!--
-(e.g., R version 3.6.0)
+List key software used here. Include version numbers if not otherwise documented with the materials provided.
+
+For example: R version 4.5.1
 -->
 
 #### Libraries and dependencies used by the code
 
 <!--
-Include version numbers (e.g., version numbers for any R or Python packages used)
+List packages (e.g., R or Python packages) and libraries here, including version numbers (e.g., version numbers for any R or Python packages used) if not otherwise documented with the materials provided (e.g., an `renv` lock file or Conda environment file or in a README).
+
+If documented with the materials, indicate here where to find the package and version information.
 -->
 
 ### Supporting system/hardware requirements (optional)
@@ -170,6 +174,10 @@ OPTIONAL: System/hardware requirements including operating system with version n
 - [ ] Multi-machine/multi-node parallelization 
     - Number of nodes and cores used: 
 
+<!--
+For more complicated situations, more details can be provided in README file(s) that accompany the code.
+-->
+
 ### License
 
 - [ ] MIT License (default)
@@ -182,7 +190,9 @@ OPTIONAL: System/hardware requirements including operating system with version n
 ### Additional information (optional)
 
 <!--
-OPTIONAL: By default, submitted code will be published on the JASA GitHub repository (http://github.com/JASA-ACS) as well as in the supplementary material. Authors are encouraged to also make their code available in a public code repository, such as on GitHub, GitLab, or BitBucket. If relevant, please provide unique identifier/DOI/version information (e.g., a Git commit ID, branch, release, or tag). If the code and workflow are provided together, this section may be omitted, with information provided in the "Location" section below.
+OPTIONAL: By default, supplementary material will be archived on figshare by JASA. Authors are strongly encouraged to also make their code available in a public code repository, such as on GitHub, GitLab, or BitBucket. If relevant, please provide unique identifier/DOI/version information (e.g., a Git commit ID, branch, release, or tag). 
+
+If the code and workflow are provided together, this section may be omitted, with information provided in the "Location" section below.
 -->
 
 # Part 3: Reproducibility workflow
@@ -214,7 +224,11 @@ Check all that apply, and in the case of a Git repository include unique identif
 - [ ] Other (please specify):
 
 <!--
-Indicate where the materials (generally including the code, unless in a separate location and indicated in the previous section) are available. We strongly encourage authors to place their materials (but not large datasets) in a Git repository hosted on a site such as GitHub, GitLab, or BitBucket. If the repository is private during the review process, please indicate the location where it will be available publicly upon publication, and also include the materials as a zip file (e.g., obtained directly from the Git hosting site) as supplementary materials.
+Indicate where the materials (generally including the code, unless in a separate location and indicated in the previous section) are available.
+
+We strongly encourage authors to place their materials (but not large datasets) in a Git repository hosted on a site such as GitHub, GitLab, or BitBucket. If the repository is private during the review process, please indicate the location where it will be available publicly upon publication.
+
+If materials are provided in a Git repository, to ensure long-term availability, make sure that you have also either included the materials in the supplementary material (e.g., as a zip file obtained directly from the Git hosting service) or placed them in a permanent archive with a DOI, such as in Zenodo.
 -->
 
 
@@ -225,7 +239,7 @@ Check all that apply
 -->
 - [ ] Single master code file 
 - [ ] Wrapper (shell) script(s)
-- [ ] Self-contained R Markdown file, Jupyter notebook, or other literate programming approach
+- [ ] Self-contained Quarto, R Markdown file, Jupyter notebook, or other literate programming approach
 - [ ] Text file (e.g., a readme-style file) that documents workflow
 - [ ] Makefile
 - [ ] Other (more detail in *Instructions* below)
@@ -233,7 +247,7 @@ Check all that apply
 ### Instructions
 
 <!--
-Describe how to use the materials provided to reproduce analyses in the manuscript. Additional details can be provided in file(s) accompanying the reproducibility materials. If no workflow is provided, please state this and say why (e.g., if the paper contains no computational work).
+Describe how to use the materials provided to reproduce analyses in the manuscript. For more complicated workflows, it is best to provide a short summary here with full  details  provided in README file(s) accompanying the reproducibility materials. If no workflow is provided, please state this and say why (e.g., if the paper contains no computational work).
 -->
 
 ### Expected run-time
@@ -247,6 +261,10 @@ Approximate time needed to reproduce the analyses on a standard desktop machine:
 - [ ] > 8 hours
 - [ ] Not feasible to run on a desktop machine, as described here:
 
+<!--
+For more complicated situations, including cases where the run-time varies greatly across different analyses, more details can be provided in README file(s) that accompany the materials.
+-->
+
 ### Additional information (optional)
 
 <!--
@@ -256,5 +274,5 @@ OPTIONAL: Additional documentation provided (e.g., R package vignettes, demos or
 # Notes (optional)
 
 <!--
-OPTIONAL: Any other relevant information not covered on this form. If reproducibility materials are not publicly available at the time of submission, please provide information here on how the reviewers can view the materials.
+OPTIONAL: Any other relevant information not covered on this form. 
 -->

@@ -17,7 +17,7 @@ An Associate Editor (AE) will assign each revised manuscript sent out to review,
 
 ## Author Contributions Checklist Form
 
-Each revision submitted to JASA is required to have an [Author Contributions Checklist Form](acc.md) describing the code and data supporting the paper and providing instructions for how to reproduce the key results (tables, figures, etc.) in the manuscript. 
+Each revision submitted to JASA is required to have an [Author Contributions Checklist Form](acc.md) describing the code and data supporting the paper and providing instructions for how to reproduce the key results (tables, figures, etc.) in the manuscript.
 
 ## Role of the Reproducibility Reviewer (RR)
 
@@ -25,5 +25,5 @@ In general, we ask that the RR assess the completeness and quality of the ACC Fo
 
 ## Criteria for reproducibility review
 
-The [Reproducibility Review Form](review-form) lists the criteria we would like you to consider in your  review (these criteria have also been provided to the authors in the [author guidelines](author-guidelines)). It is most helpful if you address the criteria by filling out the review form (you can simply create a document with the section titles as given [here](review-form)) and including the completed form as an attachment with your review. 
+The [reproducibility checklist](pages/author-checklist.html) indicates the minimal expectations for reproducibility materials. In addition, the older [Reproducibility Review Form](review-form) lists criteria we would like you to consider in your review (these criteria have also been provided to the authors in the [author guidelines](author-guidelines)). 
 
